@@ -1,0 +1,7 @@
+name: FAAuth
+version: '${project.version}'
+main: me.krymz0n.faauth.FAAuth
+api-version: 1.19
+authors: [ KRYMZ0N ]
+description: Auth Plugin for FA
+website: www.3b3t.me
